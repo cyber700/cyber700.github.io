@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://yusel.org/toriah/post/good-to-great/</loc>
+    <lastmod>2017-04-23T08:15:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yusel.org/toriah/post/</loc>
+    <lastmod>2017-04-23T08:15:49-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusel.org/toriah/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusel.org/toriah/topics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusel.org/toriah/</loc>
+    <lastmod>2017-04-23T08:15:49-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
