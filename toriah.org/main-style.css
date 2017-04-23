@@ -1,0 +1,40 @@
+﻿h3{
+	font-family: Verdana;
+	font-size:large
+	
+
+}
+
+.title {
+	font-family: Verdana;
+	font-size:large
+}
+
+p {
+	font-family: Verdana;
+	font-size: small;
+}
+.style3 {
+	text-decoration: line-through;
+}
+.style4 {
+	border-left-style: solid;
+	border-left-width: 1px;
+	padding-left: 4px;
+}
+p.quote {
+	text-align: justify;
+	font-size: small;
+	font-family: Verdana;
+	margin: 4.0pt .5in;
+}
+
+p.quote_line {
+	border-left-style: solid;
+	border-left-width: 1px;
+	padding-left: 4px;
+	text-align: justify;
+	font-size: small;
+	font-family: Verdana;
+	margin: 4.0pt .5in;
+}
