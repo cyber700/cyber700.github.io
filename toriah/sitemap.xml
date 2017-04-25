@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://toriah.org/toriah/post/archive/</loc>
+    <lastmod>2017-04-25T18:42:09-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://toriah.org/toriah/post/hashkafa/</loc>
     <lastmod>2017-04-24T18:00:49-04:00</lastmod>
   </url>
@@ -13,7 +18,7 @@
   
   <url>
     <loc>http://toriah.org/toriah/post/</loc>
-    <lastmod>2017-04-24T18:00:49-04:00</lastmod>
+    <lastmod>2017-04-25T18:42:09-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -29,7 +34,7 @@
   
   <url>
     <loc>http://toriah.org/toriah/</loc>
-    <lastmod>2017-04-24T18:00:49-04:00</lastmod>
+    <lastmod>2017-04-25T18:42:09-04:00</lastmod>
     <priority>0</priority>
   </url>
   
